@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/VitalyOryschuk/goit-react-hw-01-components.git/static/js/main.d072f2e5.chunk.js",
-    "main.js.map": "/VitalyOryschuk/goit-react-hw-01-components.git/static/js/main.d072f2e5.chunk.js.map",
-    "runtime-main.js": "/VitalyOryschuk/goit-react-hw-01-components.git/static/js/runtime-main.71126cbd.js",
-    "runtime-main.js.map": "/VitalyOryschuk/goit-react-hw-01-components.git/static/js/runtime-main.71126cbd.js.map",
-    "static/js/2.2f0d4e63.chunk.js": "/VitalyOryschuk/goit-react-hw-01-components.git/static/js/2.2f0d4e63.chunk.js",
-    "static/js/2.2f0d4e63.chunk.js.map": "/VitalyOryschuk/goit-react-hw-01-components.git/static/js/2.2f0d4e63.chunk.js.map",
-    "index.html": "/VitalyOryschuk/goit-react-hw-01-components.git/index.html",
-    "precache-manifest.51a51120fdf87e498858131d0ec54eae.js": "/VitalyOryschuk/goit-react-hw-01-components.git/precache-manifest.51a51120fdf87e498858131d0ec54eae.js",
-    "service-worker.js": "/VitalyOryschuk/goit-react-hw-01-components.git/service-worker.js"
+    "main.js": "/github.io/goit-react-hw-01-components.git/static/js/main.d072f2e5.chunk.js",
+    "main.js.map": "/github.io/goit-react-hw-01-components.git/static/js/main.d072f2e5.chunk.js.map",
+    "runtime-main.js": "/github.io/goit-react-hw-01-components.git/static/js/runtime-main.519c5787.js",
+    "runtime-main.js.map": "/github.io/goit-react-hw-01-components.git/static/js/runtime-main.519c5787.js.map",
+    "static/js/2.2f0d4e63.chunk.js": "/github.io/goit-react-hw-01-components.git/static/js/2.2f0d4e63.chunk.js",
+    "static/js/2.2f0d4e63.chunk.js.map": "/github.io/goit-react-hw-01-components.git/static/js/2.2f0d4e63.chunk.js.map",
+    "index.html": "/github.io/goit-react-hw-01-components.git/index.html",
+    "precache-manifest.1632fc38c788c3a40b45b9cba94a8ca9.js": "/github.io/goit-react-hw-01-components.git/precache-manifest.1632fc38c788c3a40b45b9cba94a8ca9.js",
+    "service-worker.js": "/github.io/goit-react-hw-01-components.git/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.71126cbd.js",
+    "static/js/runtime-main.519c5787.js",
     "static/js/2.2f0d4e63.chunk.js",
     "static/js/main.d072f2e5.chunk.js"
   ]
