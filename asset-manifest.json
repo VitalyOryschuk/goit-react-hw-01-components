@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/github.io/goit-react-hw-01-components.git/static/js/main.d072f2e5.chunk.js",
-    "main.js.map": "/github.io/goit-react-hw-01-components.git/static/js/main.d072f2e5.chunk.js.map",
-    "runtime-main.js": "/github.io/goit-react-hw-01-components.git/static/js/runtime-main.519c5787.js",
-    "runtime-main.js.map": "/github.io/goit-react-hw-01-components.git/static/js/runtime-main.519c5787.js.map",
-    "static/js/2.2f0d4e63.chunk.js": "/github.io/goit-react-hw-01-components.git/static/js/2.2f0d4e63.chunk.js",
-    "static/js/2.2f0d4e63.chunk.js.map": "/github.io/goit-react-hw-01-components.git/static/js/2.2f0d4e63.chunk.js.map",
-    "index.html": "/github.io/goit-react-hw-01-components.git/index.html",
-    "precache-manifest.1632fc38c788c3a40b45b9cba94a8ca9.js": "/github.io/goit-react-hw-01-components.git/precache-manifest.1632fc38c788c3a40b45b9cba94a8ca9.js",
-    "service-worker.js": "/github.io/goit-react-hw-01-components.git/service-worker.js"
+    "main.js": "/github.io/goit-react-hw-01-components/static/js/main.d072f2e5.chunk.js",
+    "main.js.map": "/github.io/goit-react-hw-01-components/static/js/main.d072f2e5.chunk.js.map",
+    "runtime-main.js": "/github.io/goit-react-hw-01-components/static/js/runtime-main.970b61af.js",
+    "runtime-main.js.map": "/github.io/goit-react-hw-01-components/static/js/runtime-main.970b61af.js.map",
+    "static/js/2.2f0d4e63.chunk.js": "/github.io/goit-react-hw-01-components/static/js/2.2f0d4e63.chunk.js",
+    "static/js/2.2f0d4e63.chunk.js.map": "/github.io/goit-react-hw-01-components/static/js/2.2f0d4e63.chunk.js.map",
+    "index.html": "/github.io/goit-react-hw-01-components/index.html",
+    "precache-manifest.fc1dd5f2c68de53d2fc96025d0790c72.js": "/github.io/goit-react-hw-01-components/precache-manifest.fc1dd5f2c68de53d2fc96025d0790c72.js",
+    "service-worker.js": "/github.io/goit-react-hw-01-components/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.519c5787.js",
+    "static/js/runtime-main.970b61af.js",
     "static/js/2.2f0d4e63.chunk.js",
     "static/js/main.d072f2e5.chunk.js"
   ]
