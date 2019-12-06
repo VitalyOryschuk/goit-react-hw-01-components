@@ -1,31 +1,35 @@
 import React from 'react';
-// import T from 'prop-types';
+import T from 'prop-types';
 
-const Statistics = () => {
+const Statistics = ({ title, stats }) => {
   return (
     <section className="statistics">
-      <h2 className="title">File upload</h2>
-
+      {title.length > 0 && <h2 className="title">title</h2>}
       <ul className="stat-list">
-        <li className="item">
-          <span className="label">.docx</span>
-          <span className="percentage">4%</span>
-        </li>
-        <li className="item">
-          <span className="label">.mp3</span>
-          <span className="percentage">14%</span>
-        </li>
-        <li className="item">
-          <span className="label">.pdf</span>
-          <span className="percentage">41%</span>
-        </li>
-        <li className="item">
-          <span className="label">.mp4</span>
-          <span className="percentage">12%</span>
-        </li>
+        {stats.map(item => (
+          <li className="item" key={item.id}>
+            <span className="label">{item.label}</span>
+            <span className="percentage">{item.percentage}</span>
+          </li>
+        ))}
       </ul>
     </section>
   );
+};
+
+Statistics.defaultProps = {
+  title: '',
+};
+
+Statistics.propTypes = {
+  title: T.string,
+  stats: T.arrayOf(
+    T.shape({
+      id: T.string.isRequired,
+      label: T.string.isRequired,
+      percentage: T.string.isRequired,
+    }),
+  ).isRequired,
 };
 
 export default Statistics;
