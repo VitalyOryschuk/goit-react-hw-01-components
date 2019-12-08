@@ -1,0 +1,92 @@
+.profile {
+  width: 500px;
+  height: 500px;
+  margin: 10px auto;
+  text-align: center;
+  background: rgb(219, 218, 218);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  line-height: 1.2;
+  color: #000;
+  font-family: Helvetica, sans-serif;
+}
+
+.description {
+  width: 300px;
+  background: #fff;
+  border-top-left-radius: 2%;
+  border-top-right-radius: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.avatar {
+  width: 150px;
+  height: 150px;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 50%;
+}
+
+.name {
+  font-size: 22px;
+  font-weight: 600;
+  margin: 0;
+  padding: 10px;
+}
+
+.tag {
+  color: gray;
+  margin: 0;
+  padding: 10px;
+}
+
+.location {
+  color: gray;
+  margin: 0;
+  padding: 10px 0px 20px;
+  font-size: 18px;
+}
+
+.stats {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(245, 242, 242);
+  margin: 0;
+  padding: 0;
+  width: 300px;
+  height: 80px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.stats li {
+  height: 80px;
+  width: 33.333%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.stats li:nth-child(2) {
+  border-right: 1px solid rgb(218, 216, 216);
+  border-left: 1px solid rgb(218, 216, 216);
+}
+
+.label {
+  color: gray;
+  font-size: 14px;
+}
+
+.quantity {
+  font-weight: 600;
+  padding: 5px;
+}
