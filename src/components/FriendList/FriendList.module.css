@@ -5,7 +5,17 @@
   width: 500px;
 }
 
-.status {
+.statusGreen {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin: 0px 10px;
+  background: #60f845;
+}
+
+.statusRed {
+  composes: statusGreen;
+  background: #f82f25;
   width: 20px;
   height: 20px;
   border-radius: 50%;
@@ -38,11 +48,11 @@
   padding: 15px;
 }
 
-.green {
+/* .green {
   background: #60f845;
   box-shadow: 2px 2px 2px 2px #768696;
 }
 
 .red {
-  background: #f82f25;
-}
+  
+} */
